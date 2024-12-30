@@ -1,0 +1,7 @@
+pandas
+python-dotenv
+torch
+transformers
+accelerate
+langchain
+langchain-community
